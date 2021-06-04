@@ -15,4 +15,4 @@ steps in RoadQue-ML(Machine Learning):
 6. do the train. (right now there is a problem with the test set. annotation is missing or maybe it is never exist).
 
 #Notes:
-- all the processes is executed in google colab, and the dataset and program are stored(google drive).
+- all the processes is executed in google colab, and the dataset and program are stored in google drive.
